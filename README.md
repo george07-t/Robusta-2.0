@@ -6,4 +6,3 @@ The Bluetooth Control Robotic-Arm-Vehicle project integrates Bluetooth technolog
 ![P3](https://github.com/george07-t/Robusta-2.0/assets/68592871/2b95f130-f87e-4b8d-b424-77423ec98364)
 ![P4](https://github.com/george07-t/Robusta-2.0/assets/68592871/963c57d3-f641-4b6a-a81b-0b8d6f99d21f)
 ![P5](https://github.com/george07-t/Robusta-2.0/assets/68592871/c0b211a7-8c74-4f90-9ba9-36052513c84b)
-
